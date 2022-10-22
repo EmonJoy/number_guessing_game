@@ -3,7 +3,6 @@
 #include <stdlib.h>
 using namespace std;
 
-
 int main(){
     while (true)
     {
@@ -23,11 +22,7 @@ int main(){
             cout<<"Random number was: "<<number<<endl<<endl;
         }
         
-        
-
     }
     
-
-
     getch();
 }
